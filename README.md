@@ -1,2 +1,2 @@
-# ExserciseVue
-vue.js Study
+# vue Study
+vue.js 입문
